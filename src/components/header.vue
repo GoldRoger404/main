@@ -3,12 +3,6 @@
         <div class="logo">
             <img src="../assets/logo33.png" alt="logo">
         </div>
-        <div>
-            Форма
-        </div>
-        <div class="title-block">
-            Превью
-        </div>
     </div>
 </template>
 <script>
@@ -37,9 +31,6 @@ img{
     left:10%;
     top:0;
     overflow: hidden;
-}
-.title-block{
-    margin-left:24px;
 }
 
 </style>
