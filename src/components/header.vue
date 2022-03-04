@@ -19,7 +19,7 @@ export default {
 </script>
 <style lang="css" scoped>
 .header{
-    width:100%;
+    width:100vw;
     background: #FFFFFF;
     height: 76px;
     display: flex;

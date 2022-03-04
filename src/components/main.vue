@@ -276,7 +276,7 @@ export default {
 </script>
 <style lang="css" scoped>
 .main{
-    min-height: 80vh;
+    min-height: 82vh;
     flex-direction: column;
     display:flex;
     width:33%;
@@ -477,6 +477,5 @@ li{
   position:absolute;
   left:0;
 }
-
 
 </style>

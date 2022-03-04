@@ -12,7 +12,7 @@ export default {
 </script>
 <style lang="css" scoped>
 .footer{
-    width:100%;
+    width:100vw;
     margin-top:20px;
     color: #000000;
     font-weight: normal;
