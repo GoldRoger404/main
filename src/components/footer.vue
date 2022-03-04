@@ -25,8 +25,8 @@ export default {
     right:0;
     bottom: 0;
     left: 0;
-    box-shadow: 0px 1px 0px rgba(17, 17, 17, 0.1);
-    background: #FAFAFA;
+    border:none;
+    background: #ffff;
     height: 76px;
 }
 </style>

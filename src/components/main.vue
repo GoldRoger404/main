@@ -286,7 +286,7 @@ export default {
 .formDone{
     visibility:hidden;
     height:60%;
-    width:620px;
+    width:40%;
     background: #FFF;
     color: rgba(4, 3, 73, 0.48);
     position: absolute;
